@@ -8,6 +8,8 @@
 
 *   [Alert/Notification](#alertnotification)
 
+![](Resources/Preview/Alerts.png)
+
 *   [Avatar](#avatar)
 
 *   [Badge](#badge)
