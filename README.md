@@ -69,7 +69,7 @@
 
 *   [Loading/Spinner](#loadingspinner)
 
-![](Resources/Preview/Spinner.mp4)
+<video src='Resources/Preview/Spinner.mp4' width=180/>
 
 
 *   [Modal](#modal)
