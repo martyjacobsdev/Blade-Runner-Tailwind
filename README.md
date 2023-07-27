@@ -49,6 +49,9 @@
 
 *   [Card](#card)
 
+![](Resources/Preview/Card.png)
+
+
 *   [Form](#form)
 
 *   [Footer](#footer)
