@@ -12,6 +12,8 @@
 
 *   [Avatar](#avatar)
 
+![](Resources/Preview/Avatar.png)
+
 *   [Badge](#badge)
   
 *   [Button](#button)
