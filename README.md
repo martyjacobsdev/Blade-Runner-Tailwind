@@ -74,6 +74,9 @@
 
 *   [Modal](#modal)
 
+  ![](Resources/Preview/Modal.png)
+
+
 *   [Navigation/Header](#navigationheader)
 
 *   [Pagination](#pagination)
