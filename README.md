@@ -94,6 +94,9 @@
 
 *   [Progress Bar](#progress-bar)
 
+    ![](Resources/Preview/ProgressBar.png)
+
+
 *   [Skeleton](#skeleton)
 
 *   [Comment](#comment)
