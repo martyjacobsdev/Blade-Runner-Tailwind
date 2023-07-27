@@ -34,105 +34,105 @@
 
 ![](Resources/Preview/Slider.png)
 
-*   [Cookies](#cookies)
+*   [Cookies](https://github.com/martyjacobsdev/Blade-Runner-Tailwind/blob/main/Cookies.html)
 
 ![](Resources/Preview/Cookies.png)
 
-*   [Date/Time](#datetime)
+*   [Date/Time](https://github.com/martyjacobsdev/Blade-Runner-Tailwind/blob/main/DateTime.html)
 
 ![](Resources/Preview/DateTimePicker.png)
 
-*   [Dropdown](#dropdown)
+*   [Dropdown](https://github.com/martyjacobsdev/Blade-Runner-Tailwind/blob/main/Dropdown.html)
 
 ![](Resources/Preview/Dropdown.png)
 
 
-*   [Card](#card)
+*   [Card](https://github.com/martyjacobsdev/Blade-Runner-Tailwind/blob/main/Card.html)
 
 ![](Resources/Preview/card.png)
 
 
-*   [Form](#form)
+*   [Form](https://github.com/martyjacobsdev/Blade-Runner-Tailwind/blob/main/Form.html)
 
 ![](Resources/Preview/Form.png)
 
 
-*   [Footer](#footer)
+*   [Footer](https://github.com/martyjacobsdev/Blade-Runner-Tailwind/blob/main/Footer.html)
 
 ![](Resources/Preview/Footer.png)
 
 
-*   [Hero](#hero)
+*   [Hero](https://github.com/martyjacobsdev/Blade-Runner-Tailwind/blob/main/Hero.html)
 
 ![](Resources/Preview/Hero.png)
 
 
-*   [Loading/Spinner](#loadingspinner)
+*   [Loading/Spinner](https://github.com/martyjacobsdev/Blade-Runner-Tailwind/blob/main/Spinner.html)
 
   ![](Resources/Preview/Spinner.gif)
 
 
-*   [Modal](#modal)
+*   [Modal](https://github.com/martyjacobsdev/Blade-Runner-Tailwind/blob/main/Modal.html)
 
   ![](Resources/Preview/Modal.png)
 
 
-*   [Navigation/Header](#navigationheader)
+*   [Navigation/Header](https://github.com/martyjacobsdev/Blade-Runner-Tailwind/blob/main/Navigation.html)
 
   ![](Resources/Preview/Navigation.png)
 
 
-*   [Pagination](#pagination)
+*   [Pagination](https://github.com/martyjacobsdev/Blade-Runner-Tailwind/blob/main/Pagination.html)
   
     ![](Resources/Preview/Pagination.png)
 
 
-*   [Sidebar](#sidebar)
+*   [Sidebar](https://github.com/martyjacobsdev/Blade-Runner-Tailwind/blob/main/Sidebar.html)
 
     ![](Resources/Preview/Sidebar.png)
 
 
-*   [Progress Bar](#progress-bar)
+*   [Progress Bar](https://github.com/martyjacobsdev/Blade-Runner-Tailwind/blob/main/ProgressBar.html)
 
     ![](Resources/Preview/ProgressBar.png)
 
 
-*   [Comment](#comment)
+*   [Comment](https://github.com/martyjacobsdev/Blade-Runner-Tailwind/blob/main/Comment.html)
 
     ![](Resources/Preview/Comment.png)
 
 
-*   [Step](#step)
+*   [Step](https://github.com/martyjacobsdev/Blade-Runner-Tailwind/blob/main/Steps.html)
 
     ![](Resources/Preview/Steps.png)
 
 
-*   [Switch](#switch)
+*   [Switch](https://github.com/martyjacobsdev/Blade-Runner-Tailwind/blob/main/Switch.html)
 
     ![](Resources/Preview/Toggle.png)
 
 
-*   [Tags](#tags)
+*   [Tags](https://github.com/martyjacobsdev/Blade-Runner-Tailwind/blob/main/Tags.html)
 
     ![](Resources/Preview/Tags.png)
 
 
-*   [Tooltips](#tooltips)
+*   [Tooltips](https://github.com/martyjacobsdev/Blade-Runner-Tailwind/blob/main/Tooltip.html)
 
     ![](Resources/Preview/Tooltip.png)
 
 
-*   [Table](#table)
+*   [Table](https://github.com/martyjacobsdev/Blade-Runner-Tailwind/blob/main/Table.html)
 
     ![](Resources/Preview/Table.png)
 
 
-*   [Tab](#tab)
+*   [Tab](https://github.com/martyjacobsdev/Blade-Runner-Tailwind/blob/main/Tab.html)
 
     ![](Resources/Preview/Tabs.png)
 
 
-*   [Timeline](#timeline)
+*   [Timeline](https://github.com/martyjacobsdev/Blade-Runner-Tailwind/blob/main/Timeline.html)
 
 
     ![](Resources/Preview/Timeline.png)
