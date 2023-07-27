@@ -54,6 +54,9 @@
 
 *   [Form](#form)
 
+![](Resources/Preview/Form.png)
+
+
 *   [Footer](#footer)
 
 *   [Hero](#hero)
