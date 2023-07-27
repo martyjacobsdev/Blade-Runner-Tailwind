@@ -124,6 +124,9 @@
 
 *   [Table](#table)
 
+    ![](Resources/Preview/Table.png)
+
+
 *   [List](#list)
 
 *   [Tab](#tab)
