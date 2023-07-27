@@ -38,8 +38,10 @@
 
 ![](Resources/Preview/Cookies.png)
 
-
 *   [Date/Time](#datetime)
+
+![](Resources/Preview/DateTimePicker.png)
+
 
 *   [Dropdown](#dropdown)
 
