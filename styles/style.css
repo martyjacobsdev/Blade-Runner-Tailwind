@@ -3,6 +3,6 @@
     src: url(/styles/bladerunner.ttf);
 }
   
-h2, p, h1, summary {
+h2, p, h1, summary, strong, span {
     font-family: bladeRunnerFont;
 }
