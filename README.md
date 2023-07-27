@@ -32,9 +32,9 @@
 
 ![](Resources/Preview/CallToAction.png)
 
-*   [Dashboard Widgets](#dashboard-widgets)
-
 *   [Slider/Carousel](#slidercarousel)
+
+![](Resources/Preview/Slider.png)
 
 *   [Cookies](#cookies)
 
