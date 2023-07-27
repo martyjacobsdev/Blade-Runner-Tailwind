@@ -84,6 +84,9 @@
 
 *   [Pagination](#pagination)
   
+    ![](Resources/Preview/Pagination.png)
+
+
 *   [Sidebar](#sidebar)
 
 *   [Progress Bar](#progress-bar)
