@@ -49,7 +49,7 @@
 
 *   [Card](#card)
 
-![](Resources/Preview/Card.png)
+![](Resources/Preview/card.png)
 
 
 *   [Form](#form)
