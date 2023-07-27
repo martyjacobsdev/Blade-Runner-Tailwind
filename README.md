@@ -6,33 +6,31 @@
 
 ![](Resources/Preview/Accordion.png)
 
-*   [Alert/Notification](#alertnotification)
+*   [Alert/Notification](https://github.com/martyjacobsdev/Blade-Runner-Tailwind/blob/main/Alerts.html)
 
 ![](Resources/Preview/Alerts.png)
 
-*   [Avatar](#avatar)
+*   [Avatar](https://github.com/martyjacobsdev/Blade-Runner-Tailwind/blob/main/Avatar.html)
 
 ![](Resources/Preview/Avatar.png)
 
-*   [Badge](#badge)
+*   [Badge](https://github.com/martyjacobsdev/Blade-Runner-Tailwind/blob/main/Badges.html)
 
 ![](Resources/Preview/Badges.png)
-
   
-*   [Button](#button)
+*   [Button](https://github.com/martyjacobsdev/Blade-Runner-Tailwind/blob/main/Button.html)
 
 ![](Resources/Preview/Button.png)
 
-
-*   [Breadcrumb](#breadcrumb)
+*   [Breadcrumb](https://github.com/martyjacobsdev/Blade-Runner-Tailwind/blob/main/Breadcrumb.html)
 
 ![](Resources/Preview/Breadcrumb.png)
 
-*   [Call to Action](#call-to-action)
+*   [Call to Action](https://github.com/martyjacobsdev/Blade-Runner-Tailwind/blob/main/CallToAction.html)
 
 ![](Resources/Preview/CallToAction.png)
 
-*   [Slider/Carousel](#slidercarousel)
+*   [Slider/Carousel](https://github.com/martyjacobsdev/Blade-Runner-Tailwind/blob/main/Slider.html)
 
 ![](Resources/Preview/Slider.png)
 
