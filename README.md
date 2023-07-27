@@ -89,6 +89,9 @@
 
 *   [Sidebar](#sidebar)
 
+    ![](Resources/Preview/Sidebar.png)
+
+
 *   [Progress Bar](#progress-bar)
 
 *   [Skeleton](#skeleton)
