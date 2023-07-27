@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-*   [Accordion](#accordion)
+*   [Accordion](https://github.com/martyjacobsdev/Blade-Runner-Tailwind/blob/main/Accordion.html)
 
 ![](Resources/Preview/Accordion.png)
 
