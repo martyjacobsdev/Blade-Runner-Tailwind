@@ -1,0 +1,8 @@
+@font-face {
+    font-family: bladeRunnerFont;
+    src: url(/styles/bladerunner.ttf);
+}
+  
+h2, p, h1, summary {
+    font-family: bladeRunnerFont;
+}
