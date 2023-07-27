@@ -4,6 +4,8 @@
 
 *   [Accordion](#accordion)
 
+![](Resources/Preview/Accordion.png)
+
 *   [Alert/Notification](#alertnotification)
 
 *   [Avatar](#avatar)
