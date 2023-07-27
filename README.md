@@ -109,6 +109,9 @@
 
 *   [Switch](#switch)
 
+    ![](Resources/Preview/Toggle.png)
+
+
 *   [Tags](#tags)
 
 *   [Tooltips](#tooltips)
