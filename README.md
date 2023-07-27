@@ -15,6 +15,9 @@
 ![](Resources/Preview/Avatar.png)
 
 *   [Badge](#badge)
+
+![](Resources/Preview/Badges.png)
+
   
 *   [Button](#button)
 
