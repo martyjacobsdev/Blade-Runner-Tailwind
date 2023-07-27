@@ -97,9 +97,10 @@
     ![](Resources/Preview/ProgressBar.png)
 
 
-*   [Skeleton](#skeleton)
-
 *   [Comment](#comment)
+
+    ![](Resources/Preview/Comment.png)
+
 
 *   [Step](#step)
 
