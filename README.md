@@ -114,6 +114,9 @@
 
 *   [Tags](#tags)
 
+    ![](Resources/Preview/Tags.png)
+
+
 *   [Tooltips](#tooltips)
 
 *   [Table](#table)
