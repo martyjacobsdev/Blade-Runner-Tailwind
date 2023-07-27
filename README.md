@@ -104,6 +104,9 @@
 
 *   [Step](#step)
 
+    ![](Resources/Preview/Steps.png)
+
+
 *   [Switch](#switch)
 
 *   [Tags](#tags)
