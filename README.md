@@ -1,4 +1,4 @@
-# Blade Runner Theme Tailwind Components! 
+# Blade Runner Themed Tailwind Components! 
 
 ## Table of Contents
 
