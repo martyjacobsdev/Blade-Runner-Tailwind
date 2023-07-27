@@ -64,6 +64,9 @@
 
 *   [Hero](#hero)
 
+![](Resources/Preview/Hero.png)
+
+
 *   [Loading/Spinner](#loadingspinner)
 
 *   [Modal](#modal)
