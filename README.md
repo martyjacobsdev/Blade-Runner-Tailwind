@@ -69,6 +69,9 @@
 
 *   [Loading/Spinner](#loadingspinner)
 
+![](Resources/Preview/Spinner.mp4)
+
+
 *   [Modal](#modal)
 
 *   [Navigation/Header](#navigationheader)

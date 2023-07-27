@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="/styles/style.css">
+
+</head>
+
+<style>
+
+.rotate {
+  animation: rotation 3s infinite;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+</style>
+
+<body class="m-10 bg-[url('/Resources/bg-default-2.jpg')]">
+    <p class="text-white rotate text-5xl w-20">B</p>
+</body>
+
+</html>
