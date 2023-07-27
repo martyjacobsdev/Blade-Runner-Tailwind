@@ -42,8 +42,10 @@
 
 ![](Resources/Preview/DateTimePicker.png)
 
-
 *   [Dropdown](#dropdown)
+
+![](Resources/Preview/Dropdown.png)
+
 
 *   [Card](#card)
 
