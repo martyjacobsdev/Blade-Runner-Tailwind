@@ -36,6 +36,9 @@
 
 *   [Cookies](#cookies)
 
+![](Resources/Preview/Cookies.png)
+
+
 *   [Date/Time](#datetime)
 
 *   [Dropdown](#dropdown)
