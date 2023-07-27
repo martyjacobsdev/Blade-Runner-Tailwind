@@ -59,6 +59,9 @@
 
 *   [Footer](#footer)
 
+![](Resources/Preview/Footer.png)
+
+
 *   [Hero](#hero)
 
 *   [Loading/Spinner](#loadingspinner)
